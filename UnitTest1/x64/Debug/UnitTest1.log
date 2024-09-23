@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_4\Source\Lab4\LexPermutations.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_4\Source\Lab4\LexPermutations.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_4\Source\Lab4\LexPermutations.cpp(78,21): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_4\Source\Lab4\x64\Debug\UnitTest1.lib and object C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_4\Source\Lab4\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_4\Source\Lab4\x64\Debug\UnitTest1.dll
