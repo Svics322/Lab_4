@@ -1,0 +1,8 @@
+﻿  LexPermutations.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_4\Source\Lab4\LexPermutations.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_4\Source\Lab4\LexPermutations.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_4\Source\Lab4\LexPermutations.cpp(78,21): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_4\Source\Lab4\Source.cpp(7,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Lab4.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_4\Source\Lab4\x64\Debug\Lab4_1.exe
